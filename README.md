@@ -31,12 +31,12 @@ Each .cpp file starts like this:
 A brief self-written explanation of the problem
 */
 
-🏁 Why This Repository?
+### 🏁 Why This Repository?
 📚 To track my DSA learning journey
 
 🛠 To revisit and optimize code later
 
 💼 To showcase my consistent problem-solving efforts
 
-🙌 Thanks for visiting!
+### 🙌 Thanks for visiting!
 Feel free to explore, learn, or fork this repo if you’re working on LeetCode too!
