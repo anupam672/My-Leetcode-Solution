@@ -1,22 +1,13 @@
 //1281. Subtract the Product and Sum of Digits of an Integer
 // https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
-/*Given an integer number n, return the difference between the product of its digits and the sum of its digits.
- 
+/* an intger n is given, you have to return the difference between product of thier digits and sum of their digits.
+for example a number is 123
+digits are 1,4,3
+product of digits=1*4*3=12
+sum of digits=1+4+3=8
+difference=12-8
+*/
 
-Example 1:
-
-Input: n = 234
-Output: 15 
-Explanation: 
-Product of digits = 2 * 3 * 4 = 24 
-Sum of digits = 2 + 3 + 4 = 9 
-Result = 24 - 9 = 15
-     
-
-Constraints:
-
-1 <= n <= 10^5
-    */
 class Solution {
 public:
     int subtractProductAndSum(int n) {
