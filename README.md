@@ -24,14 +24,13 @@ Instead:
 
 Each .cpp file starts like this:
 
-```cpp
 // Problem number and title
 // https://leetcode.com/problems/problem-link/
 
 /*
 A brief self-written explanation of the problem
 */
-'''
+
 🏁 Why This Repository?
 📚 To track my DSA learning journey
 
